@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">This is a simple static mini music player build in basics of HTML, CSS and JS. Used Vue.js as library for javascript. </h4>
+<h4 align="center">This is a simple static mini music player build with basic HTML, CSS and JavaScript. Used Vue.js for creating music library in the javascript. </h4>
 
 <p align="center">
   <a href="#🛠-overview">Overview</a> •

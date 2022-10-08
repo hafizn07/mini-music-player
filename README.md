@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/watch?v=pDmEYRhyusU&list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY"><img src="Assets/img/icon.png" alt="100k Coding Challenge" width="200" style="border-radius:10px"></a>
+  <a href="https://www.youtube.com/watch?v=pDmEYRhyusU&list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY"><img src="Assets/img/icon.png" alt="" width="200" style="border-radius:10px"></a>
   <br>
   Mini music player
   <br>
@@ -25,7 +25,6 @@
 - Fully responsive
 - Static app
 - Based on Vue.js CDN.
-- More than 100s of coding files.
 - Covered over 8+ demo songs
 - Stunning UI
 
